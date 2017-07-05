@@ -3,6 +3,10 @@ Theme Name: Twenty Sixteen
 Description: IE8 specific style.
 */
 
+body{
+	/*  GIT TEST */
+}
+
 code {
 	background-color: transparent;
 	padding: 0;
