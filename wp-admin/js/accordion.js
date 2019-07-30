@@ -6,7 +6,7 @@
  * Use the following markup structure for accordion behavior:
  *
  * <div class="accordion-container">
- *	<div class="accordion-section open">
+ *	<div class="accordion-section open"> 
  *		<h3 class="accordion-section-title"></h3>
  *		<div class="accordion-section-content">
  *		</div>
